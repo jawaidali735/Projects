@@ -1,0 +1,16 @@
+{
+  "name": "j735-simple-calculator",
+  "version": "2.0.1",
+  "description": "This is a simple calculator and i have also included a percentage option so anyone can calculate the percentage.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
